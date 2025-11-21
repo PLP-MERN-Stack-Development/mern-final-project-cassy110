@@ -29,26 +29,6 @@ A modern React-based project utilizing the latest frontend technologies and tool
    # or
    yarn start
    ```
-
-## 📁 Project Structure
-
-```
-react_app/
-├── public/             # Static assets
-├── src/
-│   ├── components/     # Reusable UI components
-│   ├── pages/          # Page components
-│   ├── styles/         # Global styles and Tailwind configuration
-│   ├── App.jsx         # Main application component
-│   ├── Routes.jsx      # Application routes
-│   └── index.jsx       # Application entry point
-├── .env                # Environment variables
-├── index.html          # HTML template
-├── package.json        # Project dependencies and scripts
-├── tailwind.config.js  # Tailwind CSS configuration
-└── vite.config.js      # Vite configuration
-```
-
 ## 🎨 Styling
 
 This project uses Tailwind CSS for styling. The configuration includes:
@@ -73,11 +53,5 @@ Build the application for production:
 npm run build
 ```
 
-## 🙏 Acknowledgments
-
-- Built with [Rocket.new](https://rocket.new)
-- Powered by React and Vite
-- Styled with Tailwind CSS
-
-project link https://medireach-mm55187.public.builtwithrocket.new/
+project link(https://wellconnect-portal.lovable.app)
 
