@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b8920158-8c04-4fa0-82e7-6a96abbcd3ce) and start prompting.
+Simply visit the [Lovable Project](https://wellconnect-portal.lovable.app/)) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
